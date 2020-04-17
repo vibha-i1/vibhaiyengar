@@ -1,0 +1,54 @@
+body{background-color: #1A1E26}
+
+.navbar{background-color:#012E40;
+	width: 100%;}
+
+ 
+.display-4{color:#25D9B8;
+border-bottom: 5px solid #25D9B8;
+text-align: center;
+font-size: 52px;
+text-align:center;
+text-transform:uppercase;
+font-family: dancingscript, cursive;
+}
+
+.jumbotron{background-image: url(wood1.jpg);
+	opacity: 1;
+transition: 1s;
+padding-top: 30px;
+padding-bottom: 20px;}
+
+.quote {text-align:center;
+font-size:25px;
+font-family: dancingscript, cursive;
+color: #25D9B8}
+
+
+img{margin-top: 0;
+margin-bottom: 0;
+margin-left: auto;
+margin-right: auto;}
+
+h3{color: white;
+text-align: center;}
+
+.pinfo{color: white;
+padding: 20px;}
+
+.footer-center{text-align: center;}
+.footer-right{text-align: right;}
+.e-mail{text-align: center;}
+.footer-links{padding: 0px;}
+
+.footer-distributed{background-color:#012E40;
+	position: absolute;
+	width:100%;
+	opacity: 0.4;
+margin-top: 30px;}
+
+	h4{color: white;
+		font-family: dancingscript, cursive;
+		margin: 10px;}
+
+a{color: #25D9B8;}

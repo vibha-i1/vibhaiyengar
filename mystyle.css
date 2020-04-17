@@ -1,0 +1,200 @@
+
+/*Nav bar properties */
+.navbar{background-color:#012E40;
+	width: 100%;
+
+}
+
+/*H1  specifies jumbotron properties*/
+h1{text-align: center;*/
+font-size: 86px;
+text-align: : center;
+text-transform:uppercase;
+font-family: dancingscript, cursive;
+color:#775D9E; }
+.display-4{color:#25D9B8;
+border-bottom: 5px solid #25D9B8;}
+
+/*Quote below name */
+.quote {text-align:center;
+font-size:25px;
+font-family: dancingscript, cursive;
+color: #25D9B8}
+/*About me title formatting*/
+.aboutme{text-align: center;
+color: #1CA698;
+font: 'Covered By Your Grace';
+font-size: 28px;
+text-transform: uppercase;
+}
+.jumbotron{background-image: url(wood1.jpg);
+	opacity: 1;
+transition: 1s;
+padding-top: 30px;
+padding-bottom: 20px;}
+
+
+/*Border for page after J'umbotron:check code */
+
+.border{border: solid, 10px, color: #1A4040;
+margin-left: 20px;
+margin-right: 20px;
+margin-top:20px;
+margin-bottom: 20px;}
+
+/*The body specifies the whole page and sets a background color*/
+
+body{background-color:#1A1E26;
+background-repeat: no-repeat;
+background-position: top;
+background-size: 200%;}
+
+
+/*An image of my face:NOT WORKING */
+img{margin-bottom: 20px;
+	margin-top: 20px;
+
+width: 100px;
+height: 200px;
+transition: 0.5s;}
+
+img:hover{transform: scale(1.1);}
+
+/*My Work */
+.container2 {background-color:#1CA698;
+text-align: center;
+ font: 'Covered By Your Grace';
+font-size: 18px;
+margin-left: 30px;
+margin-right: 30px ;
+transition: 0.5s;}
+
+.container2:hover{
+transform: scaleX(1.1);
+transform: scaleY(1.1);}
+
+.Work {color: white;}
+.workp{color: white;}
+
+
+
+
+
+
+/*My education */
+
+.container3 {background-color:#1CA698;
+	text-align: center;
+	font: 'Covered By Your Grace';
+font-size: 18px;
+margin-left: 30px;
+margin-right: 30px;
+transition: 0.5s}
+.container3:hover{transform: scaleX(1.1);
+transform: scaleY(1.1);}
+.Education {color: white}
+.educationp{color: white;
+text-align: center;}
+
+/*My hobbies */
+
+.container4{background-color:#1CA698;
+font: 'Covered By Your Grace';
+font-size: 18px;
+margin-left: 30px;
+margin-right: 30px;
+transition: 0.5s;}
+.card-text{color: white}
+.card-img-top{width: 200px;
+height: 200px}
+.container4:hover{transform: scaleX(1.1);
+transform: scaleY(1.1);}
+.Hobbies{color: white;
+text-align:center;}
+.hobbiesp{color: white;
+		text-align: center;}
+
+
+/*Card properties */
+
+.popularposts{text-align: center;
+color: #1CA698;
+font: 'Covered By Your Grace';
+text-transform: uppercase;
+font-size:28px;
+margin-top:  20px;
+margin-bottom: 20px;}
+
+.card-title{color: white;}
+.card{background-color:#1A4040;
+width: 300px;
+height: 300px;}
+.card-text{color: white}
+
+.container-fluid{margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;}
+
+.projects{text-align: center;
+color: #1CA698;
+font: 'Covered By Your Grace';
+text-transform: uppercase;
+font-size:28px;
+margin-top:  20px;
+margin-bottom: 20px;}
+a{color: #1CA698;}
+
+h3{color: white;
+text-align: center;
+font-family: dancingscript, cursive}
+
+.footer-center{text-align: center;}
+.footer-right{text-align: right;}
+.e-mail{text-align: center;}
+
+.footer-distributed{background-color: #012E40;
+	position: absolute;
+	width:100%;
+	opacity: 0.4;}
+
+	h4{color: white;
+		font-family: dancingscript, cursive;}
+
+/*fix imzgd 
+add links */
+
+
+
+
+
+/* Color Theme Swatches in Hex */
+/*
+.Fluorescing-coral-among-bleached-reef-1-hex { color: #035AA6; }
+.Fluorescing-coral-among-bleached-reef-2-hex { color: #4192D9; }
+.Fluorescing-coral-among-bleached-reef-3-hex { color: #026873; }
+.Fluorescing-coral-among-bleached-reef-4-hex { color: #038C8C; }
+.Fluorescing-coral-among-bleached-reef-5-hex { color: #03A696; } */
+
+/* Color Theme Swatches in RGBA */
+/*
+.Fluorescing-coral-among-bleached-reef-1-rgba { color: rgba(3, 89, 165, 1); }
+.Fluorescing-coral-among-bleached-reef-2-rgba { color: rgba(65, 145, 216, 1); }
+.Fluorescing-coral-among-bleached-reef-3-rgba { color: rgba(2, 103, 114, 1); }
+.Fluorescing-coral-among-bleached-reef-4-rgba { color: rgba(2, 140, 140, 1); }
+.Fluorescing-coral-among-bleached-reef-5-rgba { color: rgba(3, 165, 149, 1); }
+*/
+
+/* Color Theme Swatches in HSLA */
+/*
+.Fluorescing-coral-among-bleached-reef-1-hsla { color: hsla(208, 96, 33, 1); }
+.Fluorescing-coral-among-bleached-reef-2-hsla { color: hsla(208, 66, 55, 1); }
+.Fluorescing-coral-among-bleached-reef-3-hsla { color: hsla(185, 96, 22, 1); }
+.Fluorescing-coral-among-bleached-reef-4-hsla { color: hsla(180, 96, 28, 1); }
+.Fluorescing-coral-among-bleached-reef-5-hsla { color: hsla(174, 96, 33, 1); }
+*/
+
+
+
+			
+		
