@@ -1,4 +1,4 @@
-.navbar{background-color:#012E40;
+.navbar{background-color:#A5AA94;
 	width: 100%;}
 
 	.img-fluid{width: 170px;
@@ -9,28 +9,24 @@
 font-size: 38px;
 text-align: center;
 text-transform:uppercase;
-font-family: dancingscript, cursive;
-color:#775D9E; 
+color:#EF9D87; 
 }
 
 
-body{background-color:#1CA698;
+body{background-color:#F1CDB7;
 background-repeat: no-repeat;
 background-position: top;
 background-size: 100%;}
 
 
 
-h1{margin-bottom: 30px;
-margin-top: 30px;
-color: white;
-text-align: center;}
+
 
 .container-fluid{background-color:#1A1E26;
 display:grid;}
 
 .card-title{font-size: 32px;
-color: white;
+color: #A5AA94;
 text-align: center;
 align-items: top}
 
@@ -68,21 +64,9 @@ img.blur {
 
 
 
-.jtitle{color: #25D9B8;
-font-family: dancingscript, cursive;
-opacity: 1;
-font-size: 50px;
-font-weight: bolder;
-text-align: center;
-}
-
-.jtext{color:#25D9B8;
-font-size: 40px;
-font-family: dancingscript, cursive;
-font-weight: bolder; }
 
 
-.card{background-color:#185953;
+.card{background-color:#EF9D87;
 margin-bottom: 20px;
 margin-top: 20px;
 margin-left: 30px;
@@ -92,50 +76,52 @@ padding: 20px;}
 .card-body{color: white;
 }
 
-#datetime{color:#25D9B8;
+#datetime{color:#EF9D87;
 font-family: dancingscript, cursive;
 font-size: 42px;
 font-weight: bolder;}
 
-.container-fluid2{background-color: #1A4040}
+.container-fluid{background-color:#F1CDB7;}
 
 h3{margin-top: 30px;
 margin-bottom: 20px;
 margin-left: 20px;
 margin-right: 20px;
-color: white;
-font-family: dancingscript, cursive;}
+color: white;}
+/*font-family: dancingscript, cursive;}*/
 
 .blogpost{color: white;}
 
 
 h4{color: #185953;}
 
-.display-4{color: #25D9B8;}
-.lead{color: #25D9B8}
+.display-4{color: #EF9D87;
+}
+.lead{color: #EF9D87;
+font-size: 25px;}
 
-.card2{background-color: #1CA698;
+.card2{background-color: #EFE3D3;
 	margin-left: 20px;
 margin-right: 20px;
 margin-top: 20px;
-margin-bottom: 20px;
-font-family: dancingscript, cursive;}
+margin-bottom: 20px;}
+/*font-family: dancingscript, cursive;}*/
 
-.post3{color: white;}
+.post3{color: #A5AA94;}
 
-a{color: white;}
+a{color: #A5AA94;}
 
 form{margin-left: auto;
 margin-right: auto;
 margin-bottom: 30px;
 margin-top:0;
-color: #25D9B8;
+color: #A5AA94;
 text-align: right;}
 
 
 h3{color: white;
-text-align: center;
-font-family: dancingscript, cursive}
+text-align: center;}
+/*font-family: dancingscript, cursive}*/
 
 .footer-center{text-align: center;}
 .footer-right{text-align: right;}

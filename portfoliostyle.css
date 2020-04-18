@@ -1,19 +1,18 @@
-body{background-color: #1A1E26}
+body{background-color: #F1CDB7}
 
-.navbar{background-color:#012E40;
+.navbar{background-color:#A5AA94;
 	width: 100%;}
 
  
-.display-4{color:#25D9B8;
-border-bottom: 5px solid #25D9B8;
+.display-4{color:black;
 text-align: center;
 font-size: 52px;
 text-align:center;
 text-transform:uppercase;
-font-family: dancingscript, cursive;
+
 }
 
-.jumbotron{background-image: url(wood1.jpg);
+.jumbotron{background-color: #EF9D87;
 	opacity: 1;
 transition: 1s;
 padding-top: 30px;
@@ -22,7 +21,7 @@ padding-bottom: 20px;}
 .quote {text-align:center;
 font-size:25px;
 font-family: dancingscript, cursive;
-color: #25D9B8}
+color: grey;}
 
 
 img{margin-top: 0;
@@ -30,11 +29,14 @@ margin-bottom: 0;
 margin-left: auto;
 margin-right: auto;}
 
-h3{color: white;
+h3{color: #A5AA94;
 text-align: center;}
 
-.pinfo{color: white;
-padding: 20px;}
+.pinfo{color: #A5AA94;
+padding: 20px;
+font-size: 20px;}
+.card{background-color: #EFE3D3;
+margin: 20px;}
 
 .footer-center{text-align: center;}
 .footer-right{text-align: right;}
@@ -47,8 +49,7 @@ padding: 20px;}
 	opacity: 0.4;
 margin-top: 30px;}
 
-	h4{color: white;
-		font-family: dancingscript, cursive;
-		margin: 10px;}
+	h4{color: white;}
+		
 
 a{color: #25D9B8;}
